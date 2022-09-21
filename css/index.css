@@ -1,0 +1,66 @@
+body{padding: 0;margin:0;}
+    .header_part{display: flex;width:100%;position:fixed;}
+    .header_part  .head:hover{color:#f54748}
+    .header_part > div {margin:1% 0% 0% 13%;}
+    div > .view{padding-top:0%;margin:0px 8px 0px 4px;height:58px;width:170px;border-radius:19px 21px 22px 22px;color:white;background-color: crimson;border:none}
+    .search{height:50px;margin:20% 0% 0% 0%;}
+    .search > form > input{height:35px;width:256px;border-top-left-radius: 25px;border-bottom-left-radius: 25px;border:none;margin:6% 0% 0% 0%;}
+    div > .view:hover{padding-top:0%;margin:0px 8px 0% 4px;height:58px;width:170px;border-radius:19px 21px 22px 22px;color:white;background-color:lightgreen;border:none}
+
+    .search > form > button{background-color:coral;height:37px;width:55px;border-top-right-radius: 25px;border-bottom-right-radius: 25px;border:none;margin-left:-2%;color:white}
+    .search > form > button:hover{background-color: crimson;}
+    .section_2{background-color: white;display:flex}
+    .section_container{width:100%;height:95vh;display:flex}
+    .section_container_left{width:50%;margin:4%;position:relative;padding:4% 4% 0% 6%;font-size:22px}
+    .section_container_left > button{padding-top:0%;margin:9% 0% 0% 3%;height:48px;width:170px;border-radius:19px 21px 22px 22px;color:white;background-color: crimson;border:none}
+    .section_container_left > button:hover{background-color: orangered;color:white}
+    .right > button{padding-top:0%;margin:27px 0% 0% 43px;height:58px;width:170px;border-radius:19px 21px 22px 22px;color:white;background-color: crimson;border:none}
+    .right > button:hover{background-color: orangered;color:white}
+    .section_container_right{width:50%;display:flex;margin:2%;}
+    /* .section_container_left >  */
+    .tiles{ width:100%;height:50%;margin:0%;}
+    .tiles> {margin:6%}
+    .list{color:black;list-style:none;display:flex;margin:8% 1% 0%  -30%;opacity:100%;font:600;}
+    .list > li {margin:4%  7%  0% 3%;}
+    .list :first-child:hover {margin:4%  7%  0% 3%;width:fit-content;background-color:black;height:fit-content;border-radius: 18px 18px 18px 18px;color:white}
+    .list >li:hover {margin:4%  7%  0% 3%;width:fit-content;background-color:#f54748;height:fit-content;border-radius: 18px 18px 18px 18px;color:white}
+    .content{margin:7% 0% 0% 2%;}
+    .content_images > img{height: 50%;width:50%;justify-content: right;border-radius: 45 4% 4% 4%;}
+    .section-3{height:90vh;display: flex;}
+    .section-3 > .left{margin:4% 2% 0% 8%;}
+    .section-3 > .right{margin:4% 2% 0% 2%;height:80%;}
+    .section-3 > .left > img{height:80%;width:100%;border-radius:9px 9px 9px 9px;}
+    .section-3 > .left > h3{font-size:800px;}
+    .icon{height:30px;width:30px;background-color: aliceblue;}
+    .section-4{height:500px;display: flex;}
+    .section-4 > .left_4{margin:4% 2% 0% 8%;width:50%}
+    .section-4 > .right_4{margin:4% 2% 0% 2%;height:80%;}
+    .section-5{width:100%;height:80vh;display: flex;background-color:white;}
+    div  .blocks{width:33.333%;background-color:#f4f4f4;height: 60%;margin:2px 145px 0px 2px;border-radius: 16px 16px 16px 16px;padding:2%;float:right}
+    .blocks > div {margin:40px 0px 0px 0px}
+    .blocks > div > h1{color:black;width:fit-content;font-style:italic ;margin:100px 0p 0px 0px}
+    .blocks > div > h1:hover{color:#f54748;}
+    .fa { font-size:85px;font-weight: 900;margin-top:40px;color: rgb(132, 0, 255);}
+    .fa:hover{font-size: 110px;font-weight: 900;color:crimson}
+    .section-6{width:100%;height:80vh;display: flex;margin: -10px 1px 9px 0px;}
+    .section-6 > .left{ width:50%;margin: -93px 105px 81px 5px;}
+    .Tile{height:18vh;width:270px;margin:2%;border-radius: 6px 6px 06px 6px;}
+    .Tile > p {font-size: 1.5rem;margin:2px;padding:8px}
+    .tile_right{margin:1%;}
+    .tile_left{margin:1%;}
+    .left > div:first-child{margin: -2px 20px 46px 160px;}
+    .flex{display:flex;width:150%;height:50%;margin: 20px -4px 7px 127px;}
+    .section-7{background-color: #d8d6d6;height:100vh;}
+    .section-7 > .blogs {width:100%px;display:flex;margin:0px 90px 0px 90px}
+    .blogs > .blog_post{height:60vh;border-radius: 24px 24px 24px 24px;background-color:white;margin:3%;width:660px}
+    .blog_post  div{padding:3%}
+    .blog_post > img{width:100%;height:50%;}
+    .blog_post p:hover{color:#f54748;font-style:italic;}
+    .section-8{width:100%;height:80vh;display: flex;margin: 120px 1px 9px 0px;}
+    .section-8 > .left{ width:75%;margin: -93px 105px 81px 5px;}
+
+    
+    
+    
+    
+    
