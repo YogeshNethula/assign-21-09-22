@@ -1,4 +1,4 @@
-@media only screen and ((min-width:769px) and (max-width:899px)){
+@media screen and (max-width:1200px) {
     /* section-1 */
     .section-1 div{
         width:54%;
