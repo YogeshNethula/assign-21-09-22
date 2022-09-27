@@ -1,7 +1,11 @@
-@media screen and (max-width:1200px) {
+@media screen and (max-width:900px) {
+    @import url('');
+    * {
+        font-family:"Lobster" sans-serif;
+    }
     /* section-1 */
     .section-1 div{
-        width:54%;
+        width:57%;
         margin:58px 0px 0px 40px;
     }
     .section-1 p{
@@ -13,6 +17,7 @@
     }
     .feature_box{
         height:150px;
+        padding:2%;
     }
     .feature_box i{
         height:32px;
@@ -38,7 +43,7 @@
         font-size: 14px;
     }
     .part-1 p{
-        font-size: 10px;
+        font-size: 9px;
     }
     .part-2{
         margin:23px 0px 0px 43px;
@@ -52,7 +57,7 @@
     .desc p:first-child{font-size: 10px;}
     .desc h5{font-size:12px;}
     .desc p,h6{font-size: 8px;}
-    .desc > *{padding:7px 14px 0px 18px}
+    .desc > *{padding:5px 14px 0px 18px}
     /* section-5 */
     .section-5{
         height:147vh;
@@ -67,6 +72,9 @@
     .section-6-left p{
         padding:25px 0px 0px 62px;
     }
+    .section-6-left ol{
+        margin:0%;
+    }
     /* section-7 */
     .section-7{
         height:130vh;
@@ -75,7 +83,13 @@
         font-size:12px
     }
     .container{
-        margin: 97px 0px 0px 57px;
+        margin: 57px 0px 0px 49px;
+    }
+    .features{
+        margin:4%;
+    }
+    .features p{
+        font-size:9px;
     }
     /* section-8 */
     .section-8{

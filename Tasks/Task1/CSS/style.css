@@ -1,4 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+    * {
+        font-family: 'Roboto', sans-serif;
+    }
     body {
         padding: 0px;
         margin: 0px;
@@ -138,7 +141,7 @@
     
     .part-1 p {
         color: #b5acac;
-        font-size: 16px;
+        font-size: 13px;
     }
 
     
@@ -311,7 +314,7 @@
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr;
         position:relative;
-        margin:97px 0px 0px 86px;
+        margin:28px 0px 0px 45px;
     }
     .features{
         width:150px;
