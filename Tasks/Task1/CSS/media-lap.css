@@ -94,7 +94,7 @@
     /* section-8 */
     .section-8{
         height:80vh;
-        background-image:linear-gradient(rgba(28, 26, 26, 0.7), rgba(23, -27, 9, 0.7)), url('/IMAGES/computer-job-Accentuate.jpg');
+        background-image:linear-gradient(rgba(28, 26, 26, 0.7), rgba(23, -27, 9, 0.7)), url('../images/computer-job-Accentuate.jpg');
     }
     /* section-9 */
     .section-9{
