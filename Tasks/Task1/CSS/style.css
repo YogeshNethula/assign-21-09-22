@@ -13,7 +13,7 @@
     }
     
     .section-1 {
-        background-image: linear-gradient(rgba(28, 26, 26, 0.5), rgba(255, 255, 255, 0.1)), url('IMAGES/computer-job-Accentuate.jpg');
+        background-image: linear-gradient(rgba(28, 26, 26, 0.5), rgba(255, 255, 255, 0.1)), url('/IMAGES/computer-job-Accentuate.jpg');
         height: 120vh;
         width: 100%;
         background-repeat: no-repeat;
@@ -106,7 +106,7 @@
     
     .section-3-left {
         width: 48%;
-        background-image: url('IMAGES/02_IMacWorkSpace2_Mockupsforfree.jpg');
+        background-image: url('/IMAGES/02_IMacWorkSpace2_Mockupsforfree.jpg');
         height: 100vh;
         background-position: 73%;
         zoom: 106%
@@ -284,7 +284,7 @@
     }
     .section-7-left{
         width:40%;
-        background-image:url('IMAGES/71ropHPoRUL.jpg');
+        background-image:url('/IMAGES/71ropHPoRUL.jpg');
         zoom:100%;
      
     }
@@ -330,7 +330,7 @@
     }
     /* section-8 */
     .section-8{
-        background-image:linear-gradient(rgba(28, 26, 26, 0.7), rgba(29, 27, 27, 0.4)), url('IMAGES/computer-job-Accentuate.jpg');
+        background-image:linear-gradient(rgba(28, 26, 26, 0.7), rgba(29, 27, 27, 0.4)), url('/IMAGES/computer-job-Accentuate.jpg');
         object-fit:cover;
         height:60vh;
         width:100%;
